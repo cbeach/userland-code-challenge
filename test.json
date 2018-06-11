@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "name": "Paul Fontaine",
+      "favoriteColor": "blue",
+      "favoriteAnimal": "dog"
+    },
+    {
+      "name": "Casey Beach",
+      "favoriteColor": "blue",
+      "favoriteAnimal": "Mantis Shrimp"
+    }, 
+    {
+      "name": "Paul Barrett",
+      "favoriteColor": "green",
+      "favoriteAnimal": "cat"
+    }
+  ]
+}
